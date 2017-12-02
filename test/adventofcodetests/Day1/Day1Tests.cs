@@ -1,7 +1,7 @@
 ﻿namespace adventofcodetests.Day1
 {
     using Xunit;
-    using static AdventOfCode.Day1.DayOne;
+    using static  AdventOfCode.Day1.DayOne;
     public class Day1Tests
     {
         [Theory]

@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\adventofcode\AdventOfCode\AdventOfCode.csproj" />
+    <ProjectReference Include="..\..\src\adventofcode\adventofcode.csproj" />
   </ItemGroup>
 
 </Project>
